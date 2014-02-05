@@ -1,4 +1,4 @@
-space
+Space
 =====
 
-Everybody needs a home, even communities.
+This is where we talk about the physical space our community will share.
